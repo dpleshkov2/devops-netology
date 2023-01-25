@@ -1,3 +1,4 @@
 # devops-netology
 devops-netology github hosted repository
 owned by Dmitry Pleshkov
+new line for fix branch
